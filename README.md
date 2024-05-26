@@ -14,7 +14,7 @@ Fecha: 26/05/2024
 
 ## Planteamiento
 
-A través de “el software toma el mando”, Lev Manovich (2013) nos hace un recorrido donde en un primer estadio, en el que la mayor parte de medios físicos individuales fueron simulados en software y se inventaron nuevas técnicas informáticas para la generación y edición de medios. Lo siguiente fue entrar en un nuevo período regido por la “Hibridación”, donde los medios ya simulados empezaron a intercambiar propiedades y técnicas. (pág. 386)
+A través de “el software toma el mando”, Lev Manovich (2013) nos hace un recorrido donde en un primer estadio, en el que la mayor parte de medios físicos individuales fueron simulados en software y se inventaron nuevas técnicas informáticas para la generación y edición de medios. Lo siguiente fue entrar en un nuevo período regido por la “Hibridación”, donde los medios ya simulados empezaron a intercambiar propiedades y técnicas. (p. 386)
 
 La hibridación podemos encontrar de formas muy diversas:
 
@@ -22,7 +22,7 @@ La hibridación podemos encontrar de formas muy diversas:
     
 -   Se pueden definir nuevos formatos de medios utilizando técnicas de interacción/interfaz ya existentes.
     
--   O se pueden combinar ambas estrategias, definiendo nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo (pág. 420)
+-   O se pueden combinar ambas estrategias, definiendo nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo (p. 420)
 
     
 En este informe - ensayo analizaré dos casos de hibridación que existen en la actualidad; Live360 y Wonda VR.
