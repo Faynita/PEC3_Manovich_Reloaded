@@ -8,7 +8,7 @@ Autor: Fayna Gil Araña
 
 Fecha: 26/05/2024
 
-![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/13782832-70b5-4849-9c70-5c43ed829845)
+![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/e5b894c1-cd0d-400e-a42f-bb239e47b930)
 
 
 
