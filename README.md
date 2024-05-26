@@ -25,8 +25,7 @@ Podemos encontrar la hibridación de formas muy diversas:
 -   O se pueden combinar ambas estrategias, definiendo nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo (p. 420)
 
     
-En este informe - ensayo analizaré dos casos de hibridación que existen en la actualidad; Live360 y Wonda VR.
-
+Aprendamos un poco más sobre hibridación analizando dos medios existentes en la actualidad:
 
 ## Re-descubriendo la hibridacion: Live360
 
