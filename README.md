@@ -8,7 +8,7 @@ Autor: Fayna Gil Araña
 
 Fecha: 26/05/2024
 
-[![image](http://manovich.net/content/04-projects/081-watching-the-world/01.jpg)]
+
 ## Planteamiento
 
 A través de “el software toma el mando”, Lev Manovich (2013) nos hace un recorrido donde en un primer estadio, la mayor parte de medios físicos individuales fueron simulados en software y se inventaron nuevas técnicas informáticas para la generación y edición de medios. Lo siguiente fue entrar en un nuevo período regido por la “Hibridación”, donde los medios ya simulados empezaron a intercambiar propiedades y técnicas. (p.386)
