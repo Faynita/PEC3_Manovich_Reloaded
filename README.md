@@ -8,8 +8,8 @@ Autor: Fayna Gil Araña
 
 Fecha: 26/05/2024
 
-[![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/e5b894c1-cd0d-400e-a42f-bb239e47b930)
-](http://manovich.net/content/04-projects/081-watching-the-world/01.jpg)
+[[![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/e5b894c1-cd0d-400e-a42f-bb239e47b930)
+](http://manovich.net/content/04-projects/081-watching-the-world/01.jpg)](http://manovich.net/content/04-projects/081-watching-the-world/01.jpg)
 
 
 ## Planteamiento
