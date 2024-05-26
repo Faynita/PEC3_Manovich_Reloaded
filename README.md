@@ -6,7 +6,7 @@
 Autor: Fayna Gil Araña
 Fecha: 26/05/2024
 
-![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/0df8e4cc-da14-4b87-88e4-b931b262b6e6)
+     ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/0df8e4cc-da14-4b87-88e4-b931b262b6e6)
 
 
 ## Planteamiento
