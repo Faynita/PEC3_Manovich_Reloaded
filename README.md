@@ -8,7 +8,7 @@ Autor: Fayna Gil Araña
 
 Fecha: 26/05/2024
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/13782832-70b5-4849-9c70-5c43ed829845)
 
 
 
