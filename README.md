@@ -16,7 +16,7 @@ A través de “El software toma el mando”, Lev Manovich (2013) nos hace un re
 
 Lo siguiente fue entrar en un nuevo período regido por la “Hibridación”, donde los medios ya simulados empezaron a intercambiar propiedades y técnicas creando así una nueva especie de medios. (p.386)
 
-La hibridación podemos encontrar de formas muy diversas:
+Podemos encontrar la hibridación de formas muy diversas:
 
 -   Se pueden definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados.
     
