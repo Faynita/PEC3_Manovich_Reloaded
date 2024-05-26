@@ -17,8 +17,6 @@ Fecha: XX/05/2024
 
 # La hibridación de medios
 
-¡Hola! Soy tu primer archivo Markdown en ** StackEdit ** . Si quieres aprender sobre StackEdit, puedes leerme. Si quieres jugar con Markdown, puedes editarme. Una vez que hayas terminado conmigo, podrás crear nuevos archivos abriendo el ** explorador de archivos ** en la esquina izquierda de la barra de navegación.
-
 A través de “el software toma el mando”, Lev Manovich (2003) nos hace un recorrido donde en un primer estadio, en el que la mayor parte de medios físicos individuales fueron simulados en software y se inventaron nuevas técnicas informáticas para la generación y edición de medios. Lo siguiente fue entrar en un nuevo período regido por la “Hibridación”, donde los medios ya simulados empezaron a intercambiar propiedades y técnicas. (pág. 386)
 
 La hibridación podemos encontrar de formas muy diversas:
