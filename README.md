@@ -32,7 +32,7 @@ Aprendamos un poco más sobre hibridación analizando dos medios existentes en l
 ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/5968ebcf-8f8c-41be-89a4-cf572f031a88)
 
 
-Live360 es una aplicación que ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias.
+Live360 combina diferente tipos de medios en una plataforma creando así un tipo de experecia novedosa. Ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias.
 
 
 
