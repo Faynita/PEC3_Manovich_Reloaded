@@ -38,7 +38,9 @@ Live360 combina diferente tipos de medios en una plataforma creando así un tipo
 - Asistencia: en caso de una emergencia como puede ser un desastre natural, un robo del teléfono o la necesidad de un médico, la aplicación proporciona a los usuarios una asistencia.
 - Conducción: incluye detección de choques, asistencia en carretera y un resúmen de la conducción familiar, proporcionando un soporte continuo y monitoreado para los conductores de la familia.
 
-Live360 introduce nuevas herramientas y técnicas de navegación (como círculos de usuario y burbujas de privacidad), crea nuevos formatos de medios al integrar múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad). En este caso de hibridación define nuevas interfaces y nuevos formatos de medios con las características de seguridad de conducción, alertas de emercencias y el seguimiento de ubicación en tiempo real.
+Live360 introduce nuevas herramientas y técnicas de navegación (como círculos de usuario y burbujas de privacidad), crea nuevos formatos de medios al integrar múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad). 
+
+En este caso de hibridación define nuevas interfaces y nuevos formatos de medios con las características de seguridad de conducción, alertas de emercencias y el seguimiento de ubicación en tiempo real.
 
 
 
