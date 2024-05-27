@@ -32,7 +32,7 @@ Aprendamos un poco más sobre hibridación analizando dos medios existentes en l
 ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/5968ebcf-8f8c-41be-89a4-cf572f031a88)
 
 
-Live360 combina diferente tipos de medios en una plataforma creando así un tipo de experecia novedosa. Ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias, funciones como:
+Live360 combina diferente tipos de medios en una plataforma creando así un tipo de experecia novedosa. Ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias, con funciones como:
 
 - Localización: ofrece un historial de ubicaciones y alertas de lugares para mantener a los usuarios informados y seguros en sus entornos cotidianos.
 - Asistencia: en caso de una emergencia como puede ser un desastre natural, un robo del teléfono o la necesidad de un médico, la aplicación proporciona a los usuarios una asistencia.
