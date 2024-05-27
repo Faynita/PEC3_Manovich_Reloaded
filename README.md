@@ -42,6 +42,8 @@ Live360 combina diferente tipos de medios, que enumero a continuación, en una p
 - **Mapas en tiempo real:** la aplicación utiliza mapas interactivos para mostrar la ubicación en tiempo real de los miembros del círculo.
 - **Representaciones visuales de datos:** datos de coducción como la velocidad y rutas.
 
+En este caso vemos que la hibridación se produce introduciendo nuevas herramientas y técnicas de navegación (como los círculos de usuarios y las burburjas de privacidad) y creando nuevos formatos de medios integrando múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad) en la una plataforma interactiva.
+
 
 
 
