@@ -44,18 +44,15 @@ La aplicación combina diferente tipos de medios, que enumero a continuación, e
 - **Mapas en tiempo real:** la aplicación utiliza mapas interactivos para mostrar la ubicación en tiempo real de los miembros del círculo.
 - **Representaciones visuales de datos:** datos de coducción como la velocidad y rutas.
 
+Live360 es una evolución del medio ya que a partir de la tecnología existente avanza en términos de capacidades y usos.
+
 En este caso vemos que la hibridación se produce introduciendo nuevas herramientas y técnicas de navegación (como los círculos de usuarios y las burburjas de privacidad) y creando nuevos formatos de medios integrando múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad) en la una plataforma interactiva.
 
 > Lev Manovich (2013)
 > Los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno como pasa en la multimedia (pág. 361)
 
-Live360 es una evolución del medio ya que a partir de la tecnología existente avanza en términos de capacidades y usos. 
-
-Servicios como MapQuest y Google Maps proporcionaron las primeras herramientas de navegación y mapeo en línea
-
-No solo utiliza GPS sino que integra mapas interactivos, reportes de ubicación en tiempo real
-
-
+ 
+Analizando la aplicación a través de las gafas de la hibridación de Lev Manovich, he podido ejemplificar cómo la combinación de diversas tecnologías pueden crear soluciones innovadoras y multifuncionales y cómo se pueden integrar los datos de ubicación, sensores móviles, comunicación en tiempo real y servicios de seguridad para transformar las prácticas que realizamos en nuestro día a día y poder mejorarlas en cuanto a seguridad y coordinación familiar.
 
 
 ## Re-descubriendo la hibridacion: WondaVR
