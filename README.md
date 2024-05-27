@@ -51,6 +51,12 @@ En este caso vemos que la hibridación se produce introduciendo nuevas herramien
 > Lev Manovich (2013)
 > Los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno como pasa en la multimedia (pág. 361)
 
+Estos son algunos de los tipos de hibridación que he dedectado en esta aplicación:
+
+- **Datos y visualización**, usando datos de ubicación GPS con mapas interactivos y permitiéndo a los usuarios del círculo la visualización en tiempo real. 
+- **Informes de conducción y Análisis de datos**, la aplicación genera informes de comportamiento de conducción utilizando datos que recoge del móvil, los analiza y presenta diferente información como por ejemplo la velocidad, si se usa el teléfono mientras se conduce, etc. 
+- **Detección de Choques y Alertas de Emergencia**, utilizando sensores del dispositivo móvil detecta choques automovilísticos y envía alertas a los contactos de emergencia. Combina tecnología de detección y sistemas de comunicación en tiempo real. 
+
  
 Analizando la aplicación a través de las gafas de la hibridación de Lev Manovich, he podido ejemplificar cómo la combinación de diversas tecnologías pueden crear soluciones innovadoras y multifuncionales y cómo se pueden integrar los datos de ubicación, sensores móviles, comunicación en tiempo real y servicios de seguridad para transformar las prácticas que realizamos en nuestro día a día y poder mejorarlas en cuanto a seguridad y coordinación familiar.
 
