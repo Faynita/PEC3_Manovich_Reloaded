@@ -99,7 +99,7 @@ La hibridación se manifiesta principalmente de las siguientes formas:
 - **Combinando técnicas de interfaz:** Se pueden utilizar herramientas de diseño y técnicas de navegación que facilitan la creación y la experiencia del usuario.
 
 
-WondaVR es una plataforma poderosa y accesible donde hemos podido ver muchos ejemplos de la hibridación de medios descritos por Lev Manovich. Mi valoración es muy positiva, los diseñadores tienen una gran libertad creativa para poder construir experiencias verdaderamente interesantes para captar la atención y el interés de los usuarios de manera novedosa.
+WondaVR es una plataforma poderosa y accesible donde hemos podido ver muchos ejemplos de la hibridación de medios descritos por Lev Manovich. Mi valoración es  positiva. Los diseñadores tienen una gran libertad creativa para poder construir experiencias verdaderamente interesantes para captar la atención y el interés de los usuarios de manera novedosa.
 
 
 
