@@ -44,14 +44,27 @@ La aplicación combina diferentes tipos de medios, que enumero a continuación, 
 - **Mapas en tiempo real:** la aplicación utiliza mapas interactivos para mostrar la ubicación en tiempo real de los miembros del círculo.
 - **Representaciones visuales de datos:** datos de coducción como la velocidad y rutas.
 
-Es una evolución del medio ya que a partir de la tecnología existente avanza en términos de capacidades y usos.
+Es una evolución del medio ya que a partir de la tecnología existente avanza en términos de capacidades y usos. 
 
 En este caso vemos que la hibridación se produce introduciendo nuevas herramientas y técnicas de navegación (como los círculos de usuarios y las burburjas de privacidad) y creando nuevos formatos de medios integrando múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad) en la una plataforma interactiva.
 
 > Lev Manovich (2013)
 > Los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno como pasa en la multimedia (pág. 361)
 
-Algunas de las formas en las que la hibridación se representa en la aplicación son; usando datos de ubicación GPS con mapas interactivos y permitiendo a los usuarios del círculo la visualización en tiempo real. Generando informes de comportamiento de conducción utilizando datos recogidos del móvil, analizándolos y presentando diferente información como por ejemplo la velocidad, si se usa el teléfono mientras se conduce, etc. Utilizando sensores del dispositivo móvil para detectar choques automovilísticos y envía alertas a los contactos de emergencia. 
+La estrategia de hibridación que observo es la combinación de tipos de medios, que se representa en la aplicación de la siguiente manera: 
+
+- Usando datos de ubicación GPS con mapas interactivos y permitiendo a los usuarios del círculo la visualización en tiempo real.
+- Generando informes de comportamiento de conducción utilizando datos recogidos del móvil, analizándolos y presentando diferente información como por ejemplo la velocidad, si se usa el teléfono mientras se conduce, etc.
+- Utilizando sensores del dispositivo móvil para detectar choques automovilísticos y envía alertas a los contactos de emergencia.
+
+>Lev Manovich
+>Estrategias de hibridación:
+>Los híbridos de medios pueden estructurarse de formas distintas, aquí algunos ejemplos:
+> - Combinación de distintas técnicas de interfaz (Acrobat Reader)
+> - Combinación de tipos de medios (Google Earth)
+> - Usando un tipo de medios como interfaz para otro tipo (Mappr)
+> - Un espacio virtual en 3D que contiene películas, vídeos y clips (Alsace e Invisible Shape)
+> 
 
 Analizando la aplicación a través de las gafas de la hibridación de Lev Manovich, he podido ejemplificar cómo la combinación de diversas tecnologías pueden crear soluciones innovadoras y multifuncionales y cómo se pueden integrar los datos de ubicación, sensores móviles, comunicación en tiempo real y servicios de seguridad para transformar las prácticas que realizamos en nuestro día a día y poder mejorarlas en cuanto a seguridad y coordinación familiar.
 
