@@ -67,8 +67,6 @@ Combina diferentes tipos de medios, como imágenes, vídeos, sonidos especiales 
 
 
 
-
-
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
