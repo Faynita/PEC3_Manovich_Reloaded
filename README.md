@@ -32,7 +32,9 @@ Aprendamos un poco más sobre hibridación analizando dos medios existentes en l
 ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/5968ebcf-8f8c-41be-89a4-cf572f031a88)
 
 
-Live360 combina diferente tipos de medios, que enumero a continuación, en una plataforma creando así un tipo de experecia novedosa:
+Live360 es una aplicación para mantener a las familiar y grupos conectados y seguros. Permite a los usuarios compartir en tiempo real su ubicación con miembros de su "Círculo", que puede incluir familiares, amigos o cualquier persona con la que deseen mantenerse en contacto.
+
+La aplicación combina diferente tipos de medios, que enumero a continuación, en una plataforma creando así un tipo de experecia novedosa:
 
 - **GPS:** utiliza datos de GPS para rastrear la ubicación de los usuarios en tiempo real.
 - **Historial de ubicaciones:** permitiendo a los usuarios ver dónde han estado.
