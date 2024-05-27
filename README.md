@@ -62,9 +62,12 @@ Analizando la aplicación a través de las gafas de la hibridación de Lev Manov
 ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/116aaaa6-8120-42d9-96a4-5213594c31a1)
 
 
-WondaVR es una plataforma de creación y distribución de contenido de realidad virtual (RV) y realiada aumentada (RA). Está diseñada para permitir a los usuarios crear experiencias inmersivas en 360 grados sin necesidad de conocimientos avanzados en programación o diseño. Ofrece herramientas de arrastrar y soltar permitiendo construir de forma fácil diferentes escenarios y experiencias para marketing, formación, educación, entrenimiento, etc.
+WondaVR es una plataforma de creación y distribución de contenido de realidad virtual (RV) y realidad aumentada (RA). Está diseñada para permitir a los usuarios crear experiencias inmersivas en 360 grados sin necesidad de conocimientos avanzados en programación o diseño. Ofrece herramientas de arrastrar y soltar permitiendo construir de forma fácil diferentes escenarios y experiencias para marketing, formación, educación, entrenimiento, etc.
 
-WondaVR tiene las características de poder agregar contenido multimedia como imágenes, vídeos y sonidos especiales 
+Combina diferentes tipos de medios, como imágenes, vídeos, sonidos especiales y elementos gráficos interactivos. Los usuarios pueden explorar entornos virtuales que combinan elementos del mundo real con contenido digital, mezclando lo físico con lo virtual. La plataforma ofrece una interfaz interactiva donde los usuarios participan activamente en las experiencias RV y RA, pueden agregar elementos como puntos calientes, enlaces y animaciones creando una experiencia de usuario más participativa.
+
+
+
 
 
 ### Referencias y Bibliografía
