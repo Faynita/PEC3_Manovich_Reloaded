@@ -49,6 +49,11 @@ En este caso vemos que la hibridación se produce introduciendo nuevas herramien
 > Lev Manovich (2013)
 > Los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno como pasa en la multimedia (pág. 361)
 
+Live360 es una evolución del medio ya que a partir de la tecnología existente avanza en términos de capacidades y usos. 
+
+Servicios como MapQuest y Google Maps proporcionaron las primeras herramientas de navegación y mapeo en línea
+
+No solo utiliza GPS sino que integra mapas interactivos, reportes de ubicación en tiempo real
 
 
 
