@@ -32,7 +32,20 @@ Aprendamos un poco más sobre hibridación analizando dos medios existentes en l
 ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/5968ebcf-8f8c-41be-89a4-cf572f031a88)
 
 
-Live360 combina diferente tipos de medios en una plataforma creando así un tipo de experecia novedosa. Ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias, con funciones como:
+Live360 combina diferente tipos de medios, que enumero a continuación, en una plataforma creando así un tipo de experecia novedosa:
+
+- **GPS:** utiliza datos de GPS para rastrear la ubicación de los usuarios en tiempo real.
+- **Historial de ubicaciones:** permitiendo a los usuarios ver dónde han estado.
+- **Notificaciones Push:** para alertar a los usuarios sobre algún evento, como cuando un miembro de la familia llega o sale de algún lugar o en situaciones de emergencia.
+- **Mensajería y reacciones:** los usuarios pueden enviar mensajes y reaccionar a las ubicaciones de otros miembros del círculo utilizando medios de comunicación instantánea.
+- **Detección de choques y asistencia en carretera:** porporcionando soporte en tiempo real y monitoreo de la seguridad del conductor.
+- **Mapas en tiempo real:** la aplicación utiliza mapas interactivos para mostrar la ubicación en tiempo real de los miembros del círculo.
+- **Representaciones visuales de datos:** datos de coducción como la velocidad y rutas.
+
+
+
+
+Ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias, con funciones como:
 
 - Localización: ofrece un historial de ubicaciones y alertas de lugares para mantener a los usuarios informados y seguros en sus entornos cotidianos.
 - Asistencia: en caso de una emergencia como puede ser un desastre natural, un robo del teléfono o la necesidad de un médico, la aplicación proporciona a los usuarios una asistencia.
@@ -42,13 +55,7 @@ Live360 introduce nuevas herramientas y técnicas de navegación (como círculos
 
 Utiliza los siguientes tipos de medios para crear una experiencia de usuario rica e interactiva:
 
-- **GPS:** utiliza datos de GPS para rastrear la ubicación de los usuarios en tiempo real.
-- **Historial de ubicaciones:** permitiendo a los usuarios ver dónde han estado.
-- **Notificaciones Push:** para alertar a los usuarios sobre algún evento, como cuando un miembro de la familia llega o sale de algún lugar o en situaciones de emergencia.
-- **Mensajería y reacciones:** los usuarios pueden enviar mensajes y reaccionar a las ubicaciones de otros miembros del círculo utilizando medios de comunicación instantánea.
-- **Detección de choques y asistencia en carretera:** porporcionando soporte en tiempo real y monitoreo de la seguridad del conductor.
-- **Mapas en tiempo real:** la aplicación utiliza mapas interactivos para mostrar la ubicación en tiempo real de los miembros del círculo.
-- **Representaciones visuales de datos:** datos de coducción como la velocidad y rutas.
+
 
 
 
