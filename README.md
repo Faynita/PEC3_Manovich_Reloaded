@@ -76,7 +76,20 @@ Analizando la aplicación a través de las gafas de la hibridación de Lev Manov
 
 WondaVR es una plataforma de creación y distribución de contenido de realidad virtual (RV) y realidad aumentada (RA). Está diseñada para permitir a los usuarios crear experiencias inmersivas en 360 grados sin necesidad de conocimientos avanzados en programación o diseño. Ofrece herramientas de arrastrar y soltar permitiendo construir de forma fácil diferentes escenarios y experiencias para marketing, formación, educación, entrenimiento, etc.
 
-Combina diferentes tipos de medios, como imágenes, vídeos, sonidos especiales y elementos gráficos interactivos. Los usuarios pueden explorar entornos virtuales que combinan elementos del mundo real con contenido digital, mezclando lo físico con lo virtual. La plataforma ofrece una interfaz interactiva donde los usuarios participan activamente en las experiencias RV y RA, pueden agregar elementos como puntos calientes, enlaces y animaciones creando una experiencia de usuario más participativa.
+Combina diferentes tipos de medios como:
+
+- Imágenes
+- Vídeos
+- Sonidos especiales y
+- Elementos gráficos interactivos.
+
+Los usuarios pueden explorar entornos virtuales que combinan elementos del mundo real con contenido digital, mezclando lo físico con lo virtual. La plataforma ofrece una interfaz interactiva donde los usuarios participan activamente en las experiencias RV y RA, pueden agregar elementos como puntos calientes, enlaces y animaciones creando una experiencia de usuario más participativa.
+
+La hibridación se produce al combinar técnicas de navegación e interacción con nuevos formatos de medios. Se introducen nuevas formas de interactuar con el contenido y nuevos formatos de medios.
+
+En cuanto a la estrategia de hibridación considero que es **un espacio virtual en 3D que contiene otros medios**. Los usuarios pueden crear y experimentar entornos virtuales tridimensionales con una variedad de medios, como imágenes en 360 grados, vídeos en 360 grados, sonido espacial y elementos gráficos interactivos. Estos elementos se integran dentro de un espacio virtual donde los usuarios pueden navegar, explorar y participar de manera interactiva. 
+
+
 
 
 
