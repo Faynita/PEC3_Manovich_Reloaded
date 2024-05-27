@@ -32,7 +32,7 @@ Aprendamos un poco más sobre hibridación analizando dos medios existentes en l
 ![image](https://github.com/Faynita/PEC3_Manovich_Reloaded/assets/165703973/5968ebcf-8f8c-41be-89a4-cf572f031a88)
 
 
-Live360 es una aplicación para mantener a las familiar y grupos conectados y seguros. Permite a los usuarios compartir en tiempo real su ubicación con miembros de su "Círculo", que puede incluir familiares, amigos o cualquier persona con la que deseen mantenerse en contacto.
+Live360 es una aplicación para mantener a las familias y grupos conectados y seguros. Permite a los usuarios compartir en tiempo real su ubicación con miembros de su "Círculo", que puede incluir familiares, amigos o cualquier persona con la que deseen mantenerse en contacto.
 
 La aplicación combina diferente tipos de medios, que enumero a continuación, en una plataforma creando así un tipo de experecia novedosa:
 
@@ -46,18 +46,8 @@ La aplicación combina diferente tipos de medios, que enumero a continuación, e
 
 En este caso vemos que la hibridación se produce introduciendo nuevas herramientas y técnicas de navegación (como los círculos de usuarios y las burburjas de privacidad) y creando nuevos formatos de medios integrando múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad) en la una plataforma interactiva.
 
-
-
-
-Ofrece un servicio de localización apoyándose principalmente en la tecnolgía GPS. Incorpora Círculos, que son grupos para amigos o familias, con funciones como:
-
-- Localización: ofrece un historial de ubicaciones y alertas de lugares para mantener a los usuarios informados y seguros en sus entornos cotidianos.
-- Asistencia: en caso de una emergencia como puede ser un desastre natural, un robo del teléfono o la necesidad de un médico, la aplicación proporciona a los usuarios una asistencia.
-- Conducción: incluye detección de choques, asistencia en carretera y un resúmen de la conducción familiar, proporcionando un soporte continuo y monitoreado para los conductores de la familia.
-
-Live360 introduce nuevas herramientas y técnicas de navegación (como círculos de usuario y burbujas de privacidad), crea nuevos formatos de medios al integrar múltiples tipos de datos (ubicación, velocidad del vehículo, alertas de seguridad). 
-
-Utiliza los siguientes tipos de medios para crear una experiencia de usuario rica e interactiva:
+> Lev Manovich (2013)
+> Los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno como pasa en la multimedia (pág. 361)
 
 
 
