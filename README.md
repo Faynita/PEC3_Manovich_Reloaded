@@ -107,7 +107,11 @@ WondaVR es una plataforma poderosa y accesible donde hemos podido ver muchos eje
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Life360 (2024) What's Live360?. Disponible en: https://www.life360.com/learn/what-does-life360-do/ (consultado: 20 de mayo de 2024)
+* WondaVR (2024) WondaVR. Disponible en: https://www.wondavr.com/ (consultado: 23 de mayo de 2024)
+* Dressen, A (2029) preguntas y respuestas[entrevista realizada por A. Kim] 21 de noviembre de 2019.
+  
 
 
 ----
