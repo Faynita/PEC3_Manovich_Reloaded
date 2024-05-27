@@ -34,7 +34,8 @@ Aprendamos un poco más sobre hibridación analizando dos medios existentes en l
 
 Live360 es una aplicación para mantener a las familias y grupos conectados y seguros. Permite a los usuarios compartir en tiempo real su ubicación con miembros de su "Círculo", que puede incluir familiares, amigos o cualquier persona con la que deseen mantenerse en contacto.
 
-La aplicación usa datos de ubicación GPS con mapas interactivos y permite a los usuarios del círculo la visualización en tiempo real. Genera informes de comportamiento de conducción utilizando datos que recoge del móvil, los analiza y presenta diferente información como por ejemplo la velocidad, si se usa el teléfono mientras se conduce, etc. Utiliza sensores del dispositivo móvil para detectar choques automovilísticos y envía alertas a los contactos de emergencia. 
+Algunas de las formas en las que la hibridación se representa en la aplicación son; usando datos de ubicación GPS con mapas interactivos y permitiendo a los usuarios del círculo la visualización en tiempo real. Generando informes de comportamiento de conducción utilizando datos recogidos del móvil, analizándolos y presentando diferente información como por ejemplo la velocidad, si se usa el teléfono mientras se conduce, etc. Utilizando sensores del dispositivo móvil para detectar choques automovilísticos y envía alertas a los contactos de emergencia. 
+
 
 Live360 combina diferentes tipos de medios, que enumero a continuación, en una plataforma creando así un tipo de experecia novedosa:
 
