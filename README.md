@@ -92,6 +92,15 @@ La hibridación se produce al combinar técnicas de navegación e interacción c
 
 En cuanto a la estrategia de hibridación considero que es **un espacio virtual en 3D que contiene otros medios**. Los usuarios pueden crear y experimentar entornos virtuales tridimensionales con una variedad de medios, como imágenes en 360 grados, vídeos en 360 grados, sonido espacial y elementos gráficos interactivos. Estos elementos se integran dentro de un espacio virtual donde los usuarios pueden navegar, explorar y participar de manera interactiva. 
 
+La hibridación se manifiesta principalmente de las siguientes formas:
+
+- **Combinando tipos de medios:** Imágenes, vídeos, sonidos y elementos interactivos en una sola experiencia.
+- **Espacio virtual en 3D que contiene otros medios:** Entornos virtuales tridimensionales que actúan como contenedores para diferentes tipos de medios.
+- **Combinando técnicas de interfaz:** Se pueden utilizar herramientas de diseño y técnicas de navegación que facilitan la creación y la experiencia del usuario.
+
+
+WondaVR es una plataforma poderosa y accesible donde hemos podido ver muchos ejemplos de la hibridación de medios descritos por Lev Manovich. Mi valoración es muy positiva, los diseñadores tienen una gran libertad creativa para poder construir experiencias verdaderamente interesantes para captar la atención y el interés de los usuarios de manera novedosa.
+
 
 
 
